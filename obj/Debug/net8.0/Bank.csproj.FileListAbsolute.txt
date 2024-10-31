@@ -1,0 +1,14 @@
+/Users/gio/Desktop/Codes /C#/Bank/bin/Debug/net8.0/Bank
+/Users/gio/Desktop/Codes /C#/Bank/bin/Debug/net8.0/Bank.deps.json
+/Users/gio/Desktop/Codes /C#/Bank/bin/Debug/net8.0/Bank.runtimeconfig.json
+/Users/gio/Desktop/Codes /C#/Bank/bin/Debug/net8.0/Bank.dll
+/Users/gio/Desktop/Codes /C#/Bank/bin/Debug/net8.0/Bank.pdb
+/Users/gio/Desktop/Codes /C#/Bank/obj/Debug/net8.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Desktop/Codes /C#/Bank/obj/Debug/net8.0/Bank.AssemblyInfoInputs.cache
+/Users/gio/Desktop/Codes /C#/Bank/obj/Debug/net8.0/Bank.AssemblyInfo.cs
+/Users/gio/Desktop/Codes /C#/Bank/obj/Debug/net8.0/Bank.csproj.CoreCompileInputs.cache
+/Users/gio/Desktop/Codes /C#/Bank/obj/Debug/net8.0/Bank.dll
+/Users/gio/Desktop/Codes /C#/Bank/obj/Debug/net8.0/refint/Bank.dll
+/Users/gio/Desktop/Codes /C#/Bank/obj/Debug/net8.0/Bank.pdb
+/Users/gio/Desktop/Codes /C#/Bank/obj/Debug/net8.0/Bank.genruntimeconfig.cache
+/Users/gio/Desktop/Codes /C#/Bank/obj/Debug/net8.0/ref/Bank.dll
